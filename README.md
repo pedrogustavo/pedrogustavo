@@ -10,5 +10,3 @@
 🥁 Baterista  
 🎮 Gamer _(Mas só nas horas vagas rs)_  
 🎦 Super fã de Star Wars, Senhor dos Anéis e Harry Potter 
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrogustavo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
